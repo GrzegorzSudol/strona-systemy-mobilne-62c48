@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/UpDate2.jpg
 thumb_image_alt: A handheld game console on a yellow background
-image: images/6.jpg
+image: images/UpDate2.jpg
 image_alt: A handheld game console on a yellow background
 template: project
 ---
