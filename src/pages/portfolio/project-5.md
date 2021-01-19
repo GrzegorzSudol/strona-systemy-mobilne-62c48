@@ -1,6 +1,6 @@
 ---
 title: Logo XYZ
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2019-01-05'
 thumb_image: images/p2.jpg
 thumb_image_alt: A white gamepad on a green background
