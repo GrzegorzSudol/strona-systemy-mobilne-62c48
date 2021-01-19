@@ -6,7 +6,8 @@ sections:
     section_id: zdjecie
     subtitle: ''
     image_alt: lorem-ipsum
-    content: ''
+    content: |
+      # Dobra sztuka inspiruje, dobry design motywuje.
     actions: []
     type: section_content
     image: images/paski.png
