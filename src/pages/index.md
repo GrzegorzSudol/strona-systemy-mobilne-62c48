@@ -6,8 +6,14 @@ sections:
     section_id: zdjecie
     subtitle: ''
     image_alt: lorem-ipsum
-    content: |
+    content: >
       # Dobra sztuka inspiruje, dobry design motywuje.
+
+
+      ###### Witaj na mojej stronie, nazywam się Grzegorz Sudoł i zajmuję się
+      grafiką użytkową w szerokim tego sformułowania znaczeniu. Projektuję m.in.
+      plakaty, ulotki, wizytówki, banery, etykiety, foldery reklamowe oraz wiele
+      innych. Jeżeli jesteś zainteresowany współpracą odwiedź zakładkę kontakt.
     actions: []
     type: section_content
     image: images/paski.png
