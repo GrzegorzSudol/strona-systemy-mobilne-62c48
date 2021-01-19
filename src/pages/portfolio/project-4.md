@@ -1,5 +1,5 @@
 ---
-title: Logo XYZ
+title: Wizytówka 2 XYZ
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/Wizualizacja2.jpg
