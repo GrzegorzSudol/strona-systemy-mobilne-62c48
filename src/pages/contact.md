@@ -35,6 +35,6 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
-    submit_label: Send Message
+    submit_label: Wyślij wiadomość
 template: advanced
 ---
