@@ -1,6 +1,6 @@
 ---
 title: O mnie
-subtitle: Krótka notka
+subtitle: ''
 image_alt: A man taking a picture
 template: page
 ---
