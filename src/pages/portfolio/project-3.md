@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/Podgląd.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
-image: images/3.jpg
+image: images/Podgląd.jpg
 image_alt: A yellow retro telephone on a yellow background
 template: project
 ---
