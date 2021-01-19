@@ -22,27 +22,5 @@ sections:
     projects_number: 4
     view_all_label: Zobacz wszystkie projekty
     view_all_url: portfolio
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
-    type: section_hero
 template: advanced
 ---
