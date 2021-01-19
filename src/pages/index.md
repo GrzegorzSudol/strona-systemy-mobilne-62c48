@@ -20,11 +20,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: ''
-    content: >
-      Witaj na mojej stronie, nazywam się Grzegorz Sudoł i zajmuję się grafiką
-      użytkową w szerokim tego sformułowania znaczeniu. Projektuję m.in.
-      plakaty, ulotki, wizytówki, banery, etykiety, foldery reklamowe oraz wiele
-      innych. Jeżeli jesteś zainteresowany współpracą odwiedź zakładkę kontakt.
+    content: ''
     actions:
       - label: Kontakt
         url: /contact
