@@ -1,6 +1,6 @@
 ---
 title: Cennik usług XYZ
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2019-05-10'
 thumb_image: images/Cennik2.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
