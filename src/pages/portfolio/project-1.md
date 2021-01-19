@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Cennik usług XYZ
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/Cennik2.jpg
