@@ -26,7 +26,7 @@ sections:
         options:
           - Zapytanie ofertowe
           - Wycena
-          - Other
+          - Inne
       - input_type: textarea
         name: message
         label: Message
