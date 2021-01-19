@@ -21,10 +21,7 @@ sections:
     type: section_hero
     title: ''
     content: ''
-    actions:
-      - label: Kontakt
-        url: /contact
-        style: button
+    actions: []
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
