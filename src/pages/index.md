@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     image_alt: lorem-ipsum
     content: |
-      ### Dobra sztuka inspiruje, dobry design motywuje.
+      ## Dobra sztuka inspiruje, dobry design motywuje.
     actions: []
     type: section_content
     image: images/paski.png
