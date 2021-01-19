@@ -1,6 +1,6 @@
 ---
 title: Logo 2 XYZ
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2018-12-18'
 thumb_image: images/UpDate2.jpg
 thumb_image_alt: A handheld game console on a yellow background
