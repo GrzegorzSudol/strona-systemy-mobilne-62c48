@@ -25,7 +25,6 @@ sections:
         default_value: Please select
         options:
           - Zapytanie ofertowe
-          - Wycena
           - Inne
       - input_type: textarea
         name: message
