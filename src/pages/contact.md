@@ -32,7 +32,7 @@ sections:
         default_value: Twoja wiadomość
       - input_type: checkbox
         name: consent
-        label: 'Wyrażam zgodę '
+        label: 'Wyrażam zgodę na przetwarzanie moich danych w celu odpowiedzi '
     submit_label: Wyślij wiadomość
 template: advanced
 ---
