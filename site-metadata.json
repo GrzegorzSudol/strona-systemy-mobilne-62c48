@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
                 "label": "O mnie",
                 "url": "/about/",
                 "style": "link"
