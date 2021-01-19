@@ -25,7 +25,7 @@ sections:
         default_value: Please select
         options:
           - Zapytanie ofertowe
-          - Sponsorship
+          - Wycena
           - Other
       - input_type: textarea
         name: message
