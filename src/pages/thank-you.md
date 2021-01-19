@@ -3,7 +3,6 @@ title: Wiadomość została wysłana
 image_alt: Thank You Led Signage
 template: page
 ---
+Niebawem otrzymasz odpowiedź na adres e-mail podany w formularzu.
 
-Thank you for contacting us! We will get back in touch with you soon.
-
-**Have a great day!**
+**Miłego dnia :)**
