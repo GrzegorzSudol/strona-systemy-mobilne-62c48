@@ -13,7 +13,7 @@ sections:
     image: images/paski.png
   - section_id: hero
     type: section_hero
-    title: 'Dobra sztuka inspiruje, dobry design motywuje.'
+    title: ''
     content: >
       Witaj na mojej stronie, nazywam się Grzegorz Sudoł i zajmuję się grafiką
       użytkową w szerokim tego sformułowania znaczeniu. Projektuję m.in.
