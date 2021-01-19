@@ -40,7 +40,7 @@
     },
     "footer": {
         "content": "&copy; GregorS Graphic Designer",
-        "has_social": true,
+        "has_social": false,
         "social_links": []
     },
     "title": "Stackbit Exto Theme"
