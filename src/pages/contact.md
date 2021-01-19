@@ -24,7 +24,7 @@ sections:
         label: Tytuł
         default_value: Please select
         options:
-          - Error on the site
+          - Zapytanie ofertowe
           - Sponsorship
           - Other
       - input_type: textarea
