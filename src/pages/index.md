@@ -23,7 +23,7 @@ sections:
     view_all_label: Zobacz wszystkie projekty
     view_all_url: portfolio
   - title: ''
-    section_id: lorem-ipsum
+    section_id: zdjecie
     subtitle: ''
     image_alt: lorem-ipsum
     content: >-
