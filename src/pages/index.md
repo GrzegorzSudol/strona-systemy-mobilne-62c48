@@ -18,7 +18,7 @@ sections:
     title: Portfolio
     subtitle: ''
     projects_number: 4
-    view_all_label: View All
+    view_all_label: Zobacz wszystkie projekty
     view_all_url: portfolio
 template: advanced
 ---
