@@ -2,6 +2,14 @@
 title: Home
 hide_title: true
 sections:
+  - title: ''
+    section_id: zdjecie
+    subtitle: ''
+    image_alt: lorem-ipsum
+    content: ''
+    actions: []
+    type: section_content
+    image: images/paski.png
   - section_id: hero
     type: section_hero
     title: 'Dobra sztuka inspiruje, dobry design motywuje.'
@@ -22,13 +30,5 @@ sections:
     projects_number: 4
     view_all_label: Zobacz wszystkie projekty
     view_all_url: portfolio
-  - title: ''
-    section_id: zdjecie
-    subtitle: ''
-    image_alt: lorem-ipsum
-    content: ''
-    actions: []
-    type: section_content
-    image: images/paski.png
 template: advanced
 ---
