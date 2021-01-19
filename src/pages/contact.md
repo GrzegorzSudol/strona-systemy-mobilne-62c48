@@ -22,7 +22,7 @@ sections:
       - input_type: select
         name: subject
         label: Tytuł
-        default_value: Please select
+        default_value: 'Wybierz '
         options:
           - Zapytanie ofertowe
           - Inne
