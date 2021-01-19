@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - title: ''
     section_id: zdjecie
-    subtitle: O.Aicher
+    subtitle: ''
     image_alt: lorem-ipsum
     content: >
       # Dobra sztuka inspiruje, dobry design motywuje.
