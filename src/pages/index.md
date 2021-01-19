@@ -29,5 +29,6 @@ sections:
     content: ''
     actions: []
     type: section_content
+    image: images/paski.png
 template: advanced
 ---
