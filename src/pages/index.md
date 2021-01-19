@@ -10,6 +10,9 @@ sections:
       # Dobra sztuka inspiruje, dobry design motywuje.
 
 
+      O.Aicher
+
+
       ###### Witaj na mojej stronie, nazywam się Grzegorz Sudoł i zajmuję się
       grafiką użytkową w szerokim tego sformułowania znaczeniu. Projektuję m.in.
       plakaty, ulotki, wizytówki, banery, etykiety, foldery reklamowe oraz wiele
