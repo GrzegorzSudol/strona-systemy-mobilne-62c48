@@ -21,7 +21,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Tytuł
+        label: Temat
         default_value: Wybierz temat
         options:
           - Zapytanie ofertowe
