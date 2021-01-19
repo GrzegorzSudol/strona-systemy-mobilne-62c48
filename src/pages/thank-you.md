@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: Wiadomość została wysłana
 image: images/thank-you.jpg
 image_alt: Thank You Led Signage
 template: page
